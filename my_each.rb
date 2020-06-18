@@ -5,8 +5,6 @@ def my_each(array)
       i += 1
       yield array[i]
     end
-  else
-    puts "Invalid Argument!"
   end
   array
 end
