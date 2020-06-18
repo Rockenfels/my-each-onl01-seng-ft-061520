@@ -8,4 +8,5 @@ def my_each(array)
   else
     puts "Invalid Argument!"
   end
+  array
 end
